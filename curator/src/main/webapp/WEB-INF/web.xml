@@ -25,8 +25,8 @@ the License.
 	 <init-param>
 	  <param-name>jaxrs.serviceClasses</param-name>
 	  <param-value>
-        org.apache.oodt.cas.curation.rest.UploadBackend
-        org.apache.oodt.cas.curation.rest.MetadataBackend
+            org.apache.oodt.cas.curation.rest.UploadBackend
+            org.apache.oodt.cas.curation.rest.MetadataBackend
 	    org.apache.oodt.cas.curation.rest.DirectoryBackend
 	    org.apache.oodt.cas.curation.rest.IngestBackend
 	  </param-value>
